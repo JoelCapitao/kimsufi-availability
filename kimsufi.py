@@ -32,16 +32,24 @@ VERSION = "1.0"
 
 API_URL = "https://ws.ovh.com/dedicated/r2/ws.dispatcher/getAvailability2"
 REFERENCES = {
-    "150sk10": "KS-1",
+    "160sk1": "KS-1",
     "150sk20": "KS-2",
     "150sk21": "KS-2",
-    "150sk22": "KS-2 SSD",
+    "150sk22": "KS-2 SSD",    
+    "160sk2": "KS-2A",
+    "160sk21": "KS-2B",
     "150sk30": "KS-3",
     "150sk31": "KS-3",
+    "160sk3": "KS-3A",
+    "160sk31": "KS-3B",
+    "160sk32": "KS-3C",
     "150sk40": "KS-4",
     "150sk41": "KS-4",
     "150sk42": "KS-4",
+    "160sk4": "KS-4A",
+    "160sk42": "KS-4C",
     "150sk50": "KS-5",
+    "160sk5": "KS-5",
     "150sk60": "KS-6",
 
     "141game1": "GAME-1",
